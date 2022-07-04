@@ -1,5 +1,5 @@
 # Java Sınav Uygulaması
-Üç farklı sekme mevcut bunlar sınav uygulaması, hakkımızda ve yardım sekmesi.
+Dört farklı sekme mevcut bunlar sınav uygulaması, hakkımızda, yardım sekmesi ve sınav sekmesi
 
 
 ❓ PROJE HAKKINDA
